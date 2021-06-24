@@ -15,7 +15,8 @@ The file structure is the following:
 
 
 ### Roadmap
-
+- add an entire face
+- change expression on different interactions, e.g. smile on key up
 
 ### License information
 
